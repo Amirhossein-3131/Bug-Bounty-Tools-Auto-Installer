@@ -90,7 +90,7 @@ Enter your preferred option (1 or 2) and wait for the installation to complete.
 ## Contribution
 
 If you have suggestions to add more tools or improve the script, feel free to contribute!
-Please submit a Pull Request or open an Issue in the GitHub repository.
+Please submit a Pull Request or open an Issue in the GitHub repository. 
 
 
 
