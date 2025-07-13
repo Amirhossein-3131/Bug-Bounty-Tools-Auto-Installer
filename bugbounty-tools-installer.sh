@@ -39,7 +39,7 @@ run_command() {
 
 install_essential_packages() {
     run_command "Updating system packages..." sudo apt update && sudo apt upgrade -y
-    run_command "Installing essential packages..." sudo apt install -y git curl wget python3 python3-pip snapd zip unzip golang-go
+    run_command "Installing essential packages..." sudo apt install -y git curl wget python3 python3-pip snapd zip unzip 
     run_command "Installing snaps (go and chromium)..." sudo snap install go --classic
     run_command "" sudo snap install chromium
 }
